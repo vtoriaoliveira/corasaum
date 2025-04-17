@@ -1,0 +1,69 @@
+.body{display: flex;
+    justify-content: center;
+    align-items: center;
+  position: relative;
+}
+.caixa{
+    width: 80vh;
+    height: 145vh;
+    background-color: rgb(23, 22, 24);
+    border-radius: 5%;
+    box-shadow: 0cm 0cm 2cm rgb(from rgba(31, 27, 32, 0.877) r g b);
+   margin-left: 350px;
+   
+}
+.img{
+    border-radius: 10%;
+}
+.txt{
+    color: rgb(130, 16, 175);
+    padding-left: 15%;
+   font-family: @import url(https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap);
+   font-size: 50px;
+
+
+}
+.txt1{
+    color: rgb(130, 16, 175);
+    font-family: @import url(https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap);
+    padding-left: 10%;
+    font-size: 170%;
+}
+.botao{
+    margin: 8px;
+    padding: 12px 20px;    /* Aumenta o espaço interno */
+    font-size: 16px;       /* Aumenta o tamanho da fonte */
+    border: none;
+    border-radius: 10px;
+    background-color: #d4d6d8;
+    color: rgb(176, 42, 230);
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-family: @import url(https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap);
+    
+}
+.botao2{ margin: 8px;
+    padding: 12px 20px;    /* Aumenta o espaço interno */
+    font-size: 16px;       /* Aumenta o tamanho da fonte */
+    border: none;
+    border-radius: 10px;
+    background-color: #d4d6d8;
+    color: rgb(176, 42, 230);
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-family: @import url(https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap);
+
+}
+.botao3{
+    margin: 8px;
+    padding: 12px 20px;    /* Aumenta o espaço interno */
+    font-size: 16px;       /* Aumenta o tamanho da fonte */
+    border: none;
+    border-radius: 10px;
+    background-color: #e7e7e7;
+    color: rgb(176, 42, 230);
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+font-family: @import url(https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap);
+
